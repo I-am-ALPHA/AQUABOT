@@ -12,7 +12,7 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 
 module.exports = {
     
-    SESSION: process.env.AQUA_SESSION === undefined ? 'AQUA=Up4nGDBQ#AUyRa8t4EXNscPPM0F77BRNnWTR-tvQEZVPLNK7Bt3U' : process.env.AQUA_SESSION,
+    SESSION: process.env.AQUA_SESSION === undefined ? 'AQUA=M5I2QYiR#khu7Gq5s2WiEjPTjz1dhp_2SzYmxR3k5VxmLz6SxiMs' : process.env.AQUA_SESSION,
     AUTO_REACT: process.env.AUTO_REACT === undefined ? 'false' : process.env.AUTO_REACT,
     URL_1NAME: process.env.URL_1NAME === undefined ? 'Youtube' : process.env.URL_1NAME,
     URL_1LINK: process.env.URL_1LINK === undefined ? 'https://www.youtube.com/channel/UCqth_NqepnBJXJSHrqV07UQ' : process.env.URL_1LINK,
